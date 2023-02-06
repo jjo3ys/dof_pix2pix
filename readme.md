@@ -16,9 +16,12 @@ best case
 
 ![screenshot](./samples/data0115_Obj_Depth.png)
 
-epoch 500 결과<br>
+epoch 500 결과
+
 ![screenshot](./samples/E500_data0115_Obj_Depth.png)
-epoch 3000 결과<br>
+
+epoch 3000 결과
+
 ![screenshot](./samples/E3000_data0115_Obj_Depth.png)
 
 learning curve
@@ -29,5 +32,6 @@ p2p 모델의 논문에서는 rgb 이미지(채널이 3인 데이터)를 사용�
 gap, opposing, input image 만 사용하였으나,<br>
 
 ![screenshot](./samples/3ch_E500_data0115_Obj_Depth.png)
+
 개선이 되었다고 생각하진 않음
 </h4>
