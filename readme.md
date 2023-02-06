@@ -16,9 +16,9 @@ best case
 
 ![screenshot](./samples/data0115_Obj_Depth.png)
 
-epoch 500 결과
+epoch 500 결과<br>
 ![screenshot](./samples/E500_data0115_Obj_Depth.png)
-epoch 3000 결과
+epoch 3000 결과<br>
 ![screenshot](./samples/E3000_data0115_Obj_Depth.png)
 
 learning curve
