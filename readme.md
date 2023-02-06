@@ -1,4 +1,4 @@
-# UNet segmentation model
+# Pix2Pix model for dental impression
 <h2>
 DOF lab & INU 합작 프로젝트 수업
 </h2>
