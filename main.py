@@ -7,8 +7,8 @@ import torch.nn as nn
 from PIL import Image
 from torch.utils.data import DataLoader
 
-from pix2pix_dataset import ToothDataset, ToothDataset_3Ch
-from pix2pix_model import Discriminator, GeneratorUNet
+from dataset.dataset import ToothDataset, ToothDataset_3Ch
+from model.p2p import Discriminator, GeneratorUNet
 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
