@@ -29,7 +29,7 @@ learning curve
 ![screenshot](./samples/pix2pix_loss_E3000.png)
 
 p2p 모델의 논문에서는 rgb 이미지(채널이 3인 데이터)를 사용했으므로<br>
-gap, opposing, input image 만 사용하였으나,<br>
+gap, opposing, input image 만 사용하여 train 해보았으나,<br>
 
 ![screenshot](./samples/3ch_E500_data0115_Obj_Depth.png)
 
