@@ -2,6 +2,7 @@ DOF_depthmap_256/
 pix2pix_results_3ch/
 pix2pix_results_E500/
 pix2pix_results_E3000/
+.venv
 __pycache__
 *.pt
 *.zip
